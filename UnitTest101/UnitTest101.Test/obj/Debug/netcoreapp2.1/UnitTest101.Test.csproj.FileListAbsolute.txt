@@ -1,0 +1,17 @@
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\bin\Debug\netcoreapp2.1\UnitTest101.Test.deps.json
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\bin\Debug\netcoreapp2.1\UnitTest101.Test.runtimeconfig.json
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\bin\Debug\netcoreapp2.1\UnitTest101.Test.runtimeconfig.dev.json
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\bin\Debug\netcoreapp2.1\UnitTest101.Test.dll
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\bin\Debug\netcoreapp2.1\UnitTest101.Test.pdb
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\bin\Debug\netcoreapp2.1\UnitTest101.Lib.dll
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\bin\Debug\netcoreapp2.1\UnitTest101.Lib.pdb
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\obj\Debug\netcoreapp2.1\UnitTest101.Test.csprojAssemblyReference.cache
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\obj\Debug\netcoreapp2.1\UnitTest101.Test.csproj.CoreCompileInputs.cache
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\obj\Debug\netcoreapp2.1\UnitTest101.Test.AssemblyInfoInputs.cache
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\obj\Debug\netcoreapp2.1\UnitTest101.Test.AssemblyInfo.cs
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\obj\Debug\netcoreapp2.1\UnitTest101.Test.csproj.CopyComplete
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\obj\Debug\netcoreapp2.1\UnitTest101.Test.dll
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Test\obj\Debug\netcoreapp2.1\UnitTest101.Test.pdb

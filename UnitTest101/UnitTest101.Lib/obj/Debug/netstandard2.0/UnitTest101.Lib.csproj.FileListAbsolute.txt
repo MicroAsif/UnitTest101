@@ -1,0 +1,8 @@
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Lib\bin\Debug\netstandard2.0\UnitTest101.Lib.deps.json
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Lib\bin\Debug\netstandard2.0\UnitTest101.Lib.dll
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Lib\bin\Debug\netstandard2.0\UnitTest101.Lib.pdb
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Lib\obj\Debug\netstandard2.0\UnitTest101.Lib.csproj.CoreCompileInputs.cache
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Lib\obj\Debug\netstandard2.0\UnitTest101.Lib.AssemblyInfoInputs.cache
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Lib\obj\Debug\netstandard2.0\UnitTest101.Lib.AssemblyInfo.cs
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Lib\obj\Debug\netstandard2.0\UnitTest101.Lib.dll
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Lib\obj\Debug\netstandard2.0\UnitTest101.Lib.pdb
