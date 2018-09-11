@@ -6,3 +6,4 @@ C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Lib\o
 C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Lib\obj\Debug\netstandard2.0\UnitTest101.Lib.AssemblyInfo.cs
 C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Lib\obj\Debug\netstandard2.0\UnitTest101.Lib.dll
 C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Lib\obj\Debug\netstandard2.0\UnitTest101.Lib.pdb
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Lib\obj\Debug\netstandard2.0\UnitTest101.Lib.csprojAssemblyReference.cache
