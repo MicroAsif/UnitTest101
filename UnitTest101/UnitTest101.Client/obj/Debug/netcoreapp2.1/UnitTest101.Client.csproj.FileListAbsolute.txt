@@ -1,0 +1,14 @@
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Client\bin\Debug\netcoreapp2.1\UnitTest101.Client.deps.json
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Client\bin\Debug\netcoreapp2.1\UnitTest101.Client.runtimeconfig.json
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Client\bin\Debug\netcoreapp2.1\UnitTest101.Client.runtimeconfig.dev.json
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Client\bin\Debug\netcoreapp2.1\UnitTest101.Client.dll
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Client\bin\Debug\netcoreapp2.1\UnitTest101.Client.pdb
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Client\bin\Debug\netcoreapp2.1\UnitTest101.Lib.dll
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Client\bin\Debug\netcoreapp2.1\UnitTest101.Lib.pdb
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Client\obj\Debug\netcoreapp2.1\UnitTest101.Client.csprojAssemblyReference.cache
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Client\obj\Debug\netcoreapp2.1\UnitTest101.Client.csproj.CoreCompileInputs.cache
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Client\obj\Debug\netcoreapp2.1\UnitTest101.Client.AssemblyInfoInputs.cache
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Client\obj\Debug\netcoreapp2.1\UnitTest101.Client.AssemblyInfo.cs
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Client\obj\Debug\netcoreapp2.1\UnitTest101.Client.csproj.CopyComplete
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Client\obj\Debug\netcoreapp2.1\UnitTest101.Client.dll
+C:\Users\SVS\OneDrive\Documents\GitHub\UnitTest101\UnitTest101\UnitTest101.Client\obj\Debug\netcoreapp2.1\UnitTest101.Client.pdb

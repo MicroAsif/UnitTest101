@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "UnitTest101.Client/1.0.0": {
+        "dependencies": {
+          "UnitTest101.Lib": "1.0.0"
+        },
+        "runtime": {
+          "UnitTest101.Client.dll": {}
+        }
+      },
+      "UnitTest101.Lib/1.0.0": {
+        "runtime": {
+          "UnitTest101.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnitTest101.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnitTest101.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
