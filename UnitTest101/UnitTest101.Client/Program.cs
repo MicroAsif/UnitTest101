@@ -1,5 +1,7 @@
 ﻿using System;
+using UnitTest101.Lib.DemeritePointCalcultor;
 using UnitTest101.Lib.FizzBuzz;
+using UnitTest101.Lib.VowelConsonant;
 
 namespace UnitTest101.Client
 {
@@ -7,24 +9,18 @@ namespace UnitTest101.Client
     {
         static void Main(string[] args)
         {
+            //FizzBuzz Test
             for (int i = 1; i <= 100; i++)
             {
                 Console.WriteLine(FizzBuzzCal.GetValue(i));
             }
            
-
+            //First Vowel then Consonant 
             string s = "javascriptloops";
-            for (int i = 0; i < s.Length; i++)
-            {
-                if (s[i] == 'a' || s[i]== 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u')
-                    Console.WriteLine(s[i]);
-            }
+            Console.WriteLine(VowelConso.GetLetter(s));
 
-            for (int i = 0; i < s.Length; i++)
-            {
-                if (s[i] != 'a' && s[i] != 'e' && s[i] != 'i' && s[i] != 'o' && s[i] != 'u')
-                    Console.WriteLine(s[i]);
-            }
+
+           Console.WriteLine(DemeritePoint.CalculateDemeritePoints(120));
 
             Console.Read();
         }
